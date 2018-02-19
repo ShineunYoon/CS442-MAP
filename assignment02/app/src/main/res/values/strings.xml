@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quick Notes</string>
+    <string name="file_name">Notepad.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="welcome_msg">Welcome</string>
+    <string name="saved">Saved</string>
+    <string name="unchanged">Bye</string>
+</resources>
